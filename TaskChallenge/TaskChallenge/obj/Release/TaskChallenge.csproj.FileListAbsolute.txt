@@ -1,0 +1,6 @@
+C:\Users\Daniel Cashion\Documents\Visual Studio 2015\Projects\TaskChallenge\TaskChallenge\bin\Release\TaskChallenge.exe.config
+C:\Users\Daniel Cashion\Documents\Visual Studio 2015\Projects\TaskChallenge\TaskChallenge\bin\Release\TaskChallenge.exe
+C:\Users\Daniel Cashion\Documents\Visual Studio 2015\Projects\TaskChallenge\TaskChallenge\bin\Release\TaskChallenge.pdb
+C:\Users\Daniel Cashion\Documents\Visual Studio 2015\Projects\TaskChallenge\TaskChallenge\obj\Release\TaskChallenge.exe
+C:\Users\Daniel Cashion\Documents\Visual Studio 2015\Projects\TaskChallenge\TaskChallenge\obj\Release\TaskChallenge.pdb
+C:\Users\Daniel Cashion\Documents\Visual Studio 2015\Projects\TaskChallenge\TaskChallenge\obj\Release\TaskChallenge.csprojResolveAssemblyReference.cache

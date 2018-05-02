@@ -1,0 +1,9 @@
+c:\users\daniel cashion\documents\visual studio 2015\Projects\TaskChallenge\TaskChallenge\bin\Debug\TaskChallenge.exe.config
+c:\users\daniel cashion\documents\visual studio 2015\Projects\TaskChallenge\TaskChallenge\bin\Debug\TaskChallenge.exe
+c:\users\daniel cashion\documents\visual studio 2015\Projects\TaskChallenge\TaskChallenge\bin\Debug\TaskChallenge.pdb
+c:\users\daniel cashion\documents\visual studio 2015\Projects\TaskChallenge\TaskChallenge\obj\Debug\TaskChallenge.csprojResolveAssemblyReference.cache
+c:\users\daniel cashion\documents\visual studio 2015\Projects\TaskChallenge\TaskChallenge\obj\Debug\TaskChallenge.exe
+c:\users\daniel cashion\documents\visual studio 2015\Projects\TaskChallenge\TaskChallenge\obj\Debug\TaskChallenge.pdb
+C:\Users\Daniel Cashion\Desktop\SG_Coding_Challenge\TaskChallenge\TaskChallenge\bin\Debug\TaskChallenge.exe.config
+C:\Users\Daniel Cashion\Desktop\SG_Coding_Challenge\TaskChallenge\TaskChallenge\obj\Debug\TaskChallenge.exe
+C:\Users\Daniel Cashion\Desktop\SG_Coding_Challenge\TaskChallenge\TaskChallenge\obj\Debug\TaskChallenge.pdb
